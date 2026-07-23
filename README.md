@@ -34,6 +34,7 @@ A collection of LeetCode questions
 | [0063-unique-paths-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0120-triangle) |
+| [0678-valid-parenthesis-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0678-valid-parenthesis-string) |
 ## Combinatorics
 |  |
 | ------- |
@@ -57,4 +58,16 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0222-count-complete-tree-nodes) |
+## String
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
