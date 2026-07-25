@@ -4,10 +4,12 @@ A collection of LeetCode questions
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0222-count-complete-tree-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
@@ -21,6 +23,7 @@ A collection of LeetCode questions
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0222-count-complete-tree-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Math
@@ -45,6 +48,7 @@ A collection of LeetCode questions
 | [0063-unique-paths-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0120-triangle) |
 ## Matrix
 |  |
@@ -72,4 +76,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0678-valid-parenthesis-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
