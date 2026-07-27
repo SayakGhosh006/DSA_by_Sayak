@@ -50,6 +50,7 @@ A collection of LeetCode questions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0120-triangle) |
+| [0135-candy](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0135-candy) |
 ## Matrix
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0678-valid-parenthesis-string) |
 ## Divide and Conquer
 |  |
