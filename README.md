@@ -35,6 +35,7 @@ A collection of LeetCode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0064-minimum-path-sum) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0678-valid-parenthesis-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
