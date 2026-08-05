@@ -4,6 +4,7 @@ A collection of LeetCode questions
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0451-sort-characters-by-frequency](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0451-sort-characters-by-frequency) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0678-valid-parenthesis-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -147,4 +149,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1406-stone-game-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
