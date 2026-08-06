@@ -66,6 +66,7 @@ A collection of LeetCode questions
 | [0135-candy](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0135-candy) |
 | [0486-predict-the-winner](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1406-stone-game-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2017-grid-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2017-grid-game) |
 | [3731-find-missing-elements](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -132,6 +133,7 @@ A collection of LeetCode questions
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2017-grid-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2017-grid-game) |
 ## Recursion
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Enumeration
 |  |
 | ------- |
