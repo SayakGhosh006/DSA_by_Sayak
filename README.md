@@ -38,6 +38,7 @@ A collection of LeetCode questions
 | [0062-unique-paths](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
@@ -52,6 +53,7 @@ A collection of LeetCode questions
 | [0486-predict-the-winner](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0678-valid-parenthesis-string) |
 | [1406-stone-game-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1510-stone-game-iv) |
 ## Combinatorics
 |  |
 | ------- |
@@ -148,14 +150,17 @@ A collection of LeetCode questions
 | ------- |
 | [0486-predict-the-winner](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1510-stone-game-iv) |
 ## Sliding Window
 |  |
 | ------- |
@@ -169,4 +174,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
