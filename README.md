@@ -63,6 +63,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0063-unique-paths-ii) |
@@ -188,4 +189,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1510-stone-game-iv) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
