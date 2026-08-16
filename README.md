@@ -41,6 +41,7 @@ A collection of LeetCode questions
 | [0486-predict-the-winner](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
@@ -76,6 +77,7 @@ A collection of LeetCode questions
 | [1406-stone-game-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2017-grid-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2017-grid-game) |
+| [2029-stone-game-ix](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3731-find-missing-elements) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions
 | [0055-jump-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0678-valid-parenthesis-string) |
+| [2029-stone-game-ix](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Divide and Conquer
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0451-sort-characters-by-frequency) |
+| [2029-stone-game-ix](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2029-stone-game-ix) |
 ## Counting Sort
 |  |
 | ------- |
@@ -157,16 +161,19 @@ A collection of LeetCode questions
 | [0486-predict-the-winner](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2029-stone-game-ix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -185,6 +192,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
