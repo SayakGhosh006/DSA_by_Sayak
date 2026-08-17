@@ -22,10 +22,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0547-number-of-provinces](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -201,4 +203,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
