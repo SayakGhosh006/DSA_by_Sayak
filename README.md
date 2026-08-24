@@ -73,6 +73,7 @@ A collection of LeetCode questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0056-merge-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0451-sort-characters-by-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -229,4 +231,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
