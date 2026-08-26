@@ -118,6 +118,7 @@ A collection of LeetCode questions
 | [0451-sort-characters-by-frequency](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
@@ -199,6 +200,7 @@ A collection of LeetCode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Enumeration
 |  |
