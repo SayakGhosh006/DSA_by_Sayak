@@ -215,6 +215,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Nim Game
 |  |
 | ------- |
