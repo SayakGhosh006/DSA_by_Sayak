@@ -84,6 +84,7 @@ A collection of LeetCode questions
 | [0135-candy](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0135-candy) |
 | [0486-predict-the-winner](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0486-predict-the-winner) |
 | [0994-rotting-oranges](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1004-max-consecutive-ones-iii) |
 | [1386-cinema-seat-allocation](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0222-count-complete-tree-nodes) |
+| [1004-max-consecutive-ones-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2017-grid-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2017-grid-game) |
 ## Recursion
@@ -203,6 +206,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
