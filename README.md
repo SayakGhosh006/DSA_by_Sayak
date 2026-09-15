@@ -31,6 +31,7 @@ A collection of LeetCode questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0994-rotting-oranges) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions
 | [0064-minimum-path-sum](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0120-triangle) |
 | [0486-predict-the-winner](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0678-valid-parenthesis-string) |
 | [1406-stone-game-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1510-stone-game-iv) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions
 | [0120-triangle](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0135-candy) |
 | [0486-predict-the-winner](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0542-01-matrix) |
 | [0835-image-overlap](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1004-max-consecutive-ones-iii) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0064-minimum-path-sum) |
+| [0542-01-matrix](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0542-01-matrix) |
 | [0835-image-overlap](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0994-rotting-oranges) |
 | [2017-grid-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2017-grid-game) |
