@@ -126,6 +126,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1927-sum-game) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -257,4 +259,20 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0056-merge-intervals) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
