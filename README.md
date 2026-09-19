@@ -47,6 +47,7 @@ A collection of LeetCode questions
 | ------- |
 | [0062-unique-paths](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0486-predict-the-winner) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1927-sum-game) |
@@ -275,4 +276,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
