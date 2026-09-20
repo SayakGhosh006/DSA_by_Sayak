@@ -133,6 +133,7 @@ A collection of LeetCode questions
 | [1927-sum-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack
@@ -256,6 +257,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3498-reverse-degree-of-a-string) |
 ## Quicksort
 |  |
 | ------- |
