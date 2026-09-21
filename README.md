@@ -54,6 +54,7 @@ A collection of LeetCode questions
 | [2029-stone-game-ix](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3524-find-x-value-of-array-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3524-find-x-value-of-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions
 | [0678-valid-parenthesis-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0678-valid-parenthesis-string) |
 | [1406-stone-game-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1510-stone-game-iv) |
+| [3524-find-x-value-of-array-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3524-find-x-value-of-array-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3524-find-x-value-of-array-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3524-find-x-value-of-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3876-construct-uniform-parity-array-ii) |
