@@ -26,11 +26,13 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0135-candy) |
+| [0200-number-of-islands](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0200-number-of-islands) |
 | [0486-predict-the-winner](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0542-01-matrix) |
 | [0835-image-overlap](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0835-image-overlap) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0542-01-matrix) |
 | [0835-image-overlap](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0994-rotting-oranges) |
@@ -251,6 +255,7 @@ A collection of LeetCode questions
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
