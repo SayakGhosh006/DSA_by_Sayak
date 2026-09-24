@@ -57,6 +57,7 @@ A collection of LeetCode questions
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3524-find-x-value-of-array-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3876-construct-uniform-parity-array-ii) |
