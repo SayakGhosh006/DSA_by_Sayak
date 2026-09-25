@@ -21,6 +21,7 @@ A collection of LeetCode questions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0222-count-complete-tree-nodes) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0222-count-complete-tree-nodes) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Math
 |  |
@@ -292,4 +294,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1401-circle-and-rectangle-overlapping) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
