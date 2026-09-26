@@ -9,6 +9,7 @@ A collection of LeetCode questions
 | [0451-sort-characters-by-frequency](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0451-sort-characters-by-frequency) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1386-cinema-seat-allocation) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions
 | [1386-cinema-seat-allocation](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2017-grid-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2017-grid-game) |
 | [2029-stone-game-ix](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0678-valid-parenthesis-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
