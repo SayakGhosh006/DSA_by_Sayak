@@ -30,6 +30,7 @@ A collection of LeetCode questions
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0200-number-of-islands](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions
 | [0200-number-of-islands](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0994-rotting-oranges) |
 ## Binary Tree
@@ -266,10 +268,12 @@ A collection of LeetCode questions
 | ------- |
 | [0200-number-of-islands](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0785-is-graph-bipartite) |
 ## Simulation
 |  |
 | ------- |
@@ -307,4 +311,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
