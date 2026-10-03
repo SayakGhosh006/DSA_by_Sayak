@@ -67,6 +67,7 @@ A collection of LeetCode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0062-unique-paths) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0032-longest-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Graph Coloring
 |  |
