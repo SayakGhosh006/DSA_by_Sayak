@@ -147,6 +147,7 @@ A collection of LeetCode questions
 | [0032-longest-valid-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0032-longest-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1927-sum-game) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions
 | [0032-longest-valid-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
@@ -314,6 +316,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Graph Coloring
 |  |
