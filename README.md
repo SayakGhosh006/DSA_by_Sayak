@@ -148,6 +148,7 @@ A collection of LeetCode questions
 | [0451-sort-characters-by-frequency](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1927-sum-game) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions
 | [0055-jump-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2029-stone-game-ix) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Graph Coloring
 |  |
