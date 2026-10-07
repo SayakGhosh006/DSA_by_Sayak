@@ -36,6 +36,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0785-is-graph-bipartite) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0301-remove-invalid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0856-score-of-parentheses) |
@@ -330,4 +332,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0785-is-graph-bipartite) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
