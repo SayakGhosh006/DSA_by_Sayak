@@ -339,4 +339,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0301-remove-invalid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
