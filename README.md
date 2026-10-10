@@ -110,6 +110,7 @@ A collection of LeetCode questions
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2017-grid-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2017-grid-game) |
 | [2029-stone-game-ix](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2029-stone-game-ix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1004-max-consecutive-ones-iii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2029-stone-game-ix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Divide and Conquer
@@ -195,6 +198,7 @@ A collection of LeetCode questions
 | ------- |
 | [0056-merge-intervals](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0056-merge-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0451-sort-characters-by-frequency) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3731-find-missing-elements) |
@@ -202,6 +206,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0451-sort-characters-by-frequency) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
 | ------- |
