@@ -37,6 +37,7 @@ A collection of LeetCode questions
 | [0785-is-graph-bipartite](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3524-find-x-value-of-array-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions
 | [0994-rotting-oranges](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1254-number-of-closed-islands) |
 | [2017-grid-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2017-grid-game) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -312,6 +316,7 @@ A collection of LeetCode questions
 | [0785-is-graph-bipartite](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
