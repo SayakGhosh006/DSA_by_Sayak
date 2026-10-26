@@ -36,6 +36,7 @@ A collection of LeetCode questions
 | [0547-number-of-provinces](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions
 | [0785-is-graph-bipartite](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions
 | [0835-image-overlap](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1004-max-consecutive-ones-iii) |
+| [1254-number-of-closed-islands](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions
 | [0542-01-matrix](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0542-01-matrix) |
 | [0835-image-overlap](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1254-number-of-closed-islands) |
 | [2017-grid-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2017-grid-game) |
 ## Binary Search
 |  |
@@ -306,6 +310,7 @@ A collection of LeetCode questions
 | [0200-number-of-islands](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
