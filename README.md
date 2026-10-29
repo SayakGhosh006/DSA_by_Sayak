@@ -27,6 +27,7 @@ A collection of LeetCode questions
 | [0701-insert-into-a-binary-search-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3731-find-missing-elements) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0222-count-complete-tree-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1386-cinema-seat-allocation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
@@ -189,6 +193,7 @@ A collection of LeetCode questions
 | [3498-reverse-degree-of-a-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -221,6 +226,7 @@ A collection of LeetCode questions
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -390,10 +396,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Memoization
 |  |
 | ------- |
