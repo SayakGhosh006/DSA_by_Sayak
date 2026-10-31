@@ -95,6 +95,7 @@ A collection of LeetCode questions
 | [1510-stone-game-iv](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1510-stone-game-iv) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3524-find-x-value-of-array-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Combinatorics
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions
 | [3524-find-x-value-of-array-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3731-find-missing-elements) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions
 | [1254-number-of-closed-islands](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/1254-number-of-closed-islands) |
 | [2017-grid-game](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2017-grid-game) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
