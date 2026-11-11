@@ -77,6 +77,7 @@ A collection of LeetCode questions
 | [3345-smallest-divisible-digit-product-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions
 | [2333-minimum-sum-of-squared-difference](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/SayakGhosh006/DSA_by_Sayak/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Divide and Conquer
 |  |
 | ------- |
